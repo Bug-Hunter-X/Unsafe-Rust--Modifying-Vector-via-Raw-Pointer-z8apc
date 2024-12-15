@@ -1,0 +1,1 @@
+This repository demonstrates a common error in unsafe Rust code involving the manipulation of vectors using raw pointers.  The `bug.rs` file contains the erroneous code, while `bugSolution.rs` provides a safer alternative.  It highlights the importance of careful memory management in unsafe Rust blocks.
